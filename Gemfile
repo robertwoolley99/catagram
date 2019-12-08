@@ -27,8 +27,8 @@ gem 'jbuilder', '~> 2.7'
 
 # Paperclip to support uploading photos
 gem "paperclip", "~> 6.0.0"
-
-
+gem 'country_select'
+gem 'simple_form'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
