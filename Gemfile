@@ -21,6 +21,9 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'jquery-rails'
+# Needed for Javascript bootstrap
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
@@ -28,6 +31,7 @@ gem 'jbuilder', '~> 2.7'
 # Paperclip to support uploading photos
 gem "paperclip", "~> 6.0.0"
 gem 'country_select'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'simple_form'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
