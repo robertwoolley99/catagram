@@ -28,6 +28,10 @@ gem 'jquery-rails'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
+
+gem "rack", ">= 2.0.8"
+
+
 # Paperclip to support uploading photos
 gem "paperclip", "~> 6.0.0"
 gem 'country_select'
