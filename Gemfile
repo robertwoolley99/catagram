@@ -8,7 +8,7 @@ gem 'rails', '~> 6.0.1'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
@@ -27,6 +27,10 @@ gem 'jquery-rails'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
+
+
+gem "rack", ">= 2.0.8"
+
 
 # Paperclip to support uploading photos
 gem "paperclip", "~> 6.0.0"
