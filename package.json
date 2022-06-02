@@ -7,7 +7,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "^5.4.3",
     "dart-sass": "^1.25.0",
-    "npm": "^8.5.0",
+    "npm": "^8.11.0",
     "sass": "^1.38.0",
     "turbolinks": "^5.2.0"
   },
